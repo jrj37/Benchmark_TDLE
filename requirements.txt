@@ -1,0 +1,6 @@
+berkeleydb
+matplotlib
+mysql-connector-python
+pandas
+numpy
+sqlalchemy
